@@ -1,6 +1,12 @@
 # 📚 课程表导入日历工具（离线版）
 
-一个本地运行的 Python 工具，可以将教学网下载的 **Excel 课表** 转换为 `.ics` 日历文件，方便导入 Apple Calendar / Google Calendar。
+## Feature
+
+-   支持单双周、周数范围
+
+-   一个本地运行的 Python 工具，可以将教学网下载的 **Excel 课表** 转换为 `.ics` 日历文件，方便导入 Apple Calendar / Google Calendar。
+
+
 
 ---
 
